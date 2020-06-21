@@ -1,8 +1,5 @@
 /* 
  * Natalie Pham
- * 22C 
- * 05/27/2020
- * Extra Credit
  * BinarySearchTree
  */
 
